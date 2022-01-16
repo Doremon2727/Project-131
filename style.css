@@ -1,0 +1,29 @@
+.header:hover{
+    width: 220px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.link {
+    font-size: 20px;
+    background: beige;
+    border-radius: 10px;
+    width: 300px;
+    margin-top: 15px;
+    color: deeppink;
+}
+
+.link:hover {
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+h1{
+    color: aqua;
+    font-family: cursive;
+    font-weight: 800;
+    font-style: italic;
+
+}
